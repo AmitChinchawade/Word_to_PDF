@@ -14,17 +14,17 @@ This is a simple web-based application that allows users to upload a Word (.docx
 4) Download the pdf_web.html file in  "templates" folder. 
 
 **How to Run the Application**
-1️⃣ Start the Flask Server
+1️⃣ Start the Flask Server- 
     Open Cammand Prompt from "Project" folder.
     Run code "python main.py"
     The application will start on http://127.0.0.1:5000/.
 
-2️⃣ Open the Web Interface
+2️⃣ Open the Web Interface-
     Open a browser and go to http://127.0.0.1:5000/.
     Click Browse, select a .docx file, and click Convert.
     The converted PDF file will be downloaded automatically.
 
-3️⃣ File Structure
+3️⃣ File Structure-
 
     Word-To-PDF-Converter/
     │-- main.py                # Main Flask Application
